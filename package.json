@@ -1,0 +1,19 @@
+{
+  "name": "Luka Donuts",
+  "version": "1.0.0",
+  "description": "Home page of a donut website(nonresponsive).",
+  "main": "public/index.html",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucabecci/Luka-Donuts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucabecci/Luka-Donuts/issues"
+  },
+  "homepage": "https://github.com/lucabecci/Luka-Donuts#readme"
+}
